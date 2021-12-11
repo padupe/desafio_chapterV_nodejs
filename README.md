@@ -23,8 +23,8 @@ $ git clone https://github.com/padupe/desafio_chapterV_nodejs
 # Instale as dependências
 $ yarn install
 
-# Rode os testes
-$ yarn test
+# Suba o Container do Banco de Dados
+$ docker-compose up
 
 ```
 
