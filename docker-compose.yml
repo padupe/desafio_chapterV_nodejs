@@ -8,9 +8,9 @@ services:
     ports:
       - 5432:5432
     environment:
-      - POSTGRES_USER=docker
-      - POSTGRES_PASSWORD=ignite
-      - POSTGRES_DB=chapterv
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=docker
+      - POSTGRES_DB=fin_api
     volumes:
       - pgdata:/data/postgres
     
