@@ -10,7 +10,7 @@
     <img align="center" alt="Padupe-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 
-📖[Descrição do Desafio](https://www.notion.so/Desafio-01-Testes-unit-rios-0321db2af07e4b48a85a1e4e360fcd11 "Descrição do Desafio")
+📖[Descrição do Desafio](https://www.notion.so/Desafio-01-Transfer-ncias-com-a-FinAPI-5e1dbfc0bd66420f85f6a4948ad727c2 "Descrição do Desafio")
 
 ---
 
