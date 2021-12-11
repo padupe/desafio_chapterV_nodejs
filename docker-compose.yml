@@ -1,0 +1,19 @@
+version: "3.7"
+
+services:
+  db_challenge_chapterv:
+    image: postgres
+    container_name: db_challenge_chapterv
+    restart: always
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_USER=docker
+      - POSTGRES_PASSWORD=ignite
+      - POSTGRES_DB=chapterv
+    volumes:
+      - pgdata:/data/postgres
+    
+volumes:
+  pgdata:
+    driver: local
