@@ -6,6 +6,7 @@
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Padupe-Node" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Padupe-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Padupe-Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
     <img align="center" alt="Padupe-Jest" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
     <img align="center" alt="Padupe-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
@@ -25,6 +26,9 @@ $ yarn install
 
 # Suba o Container do Banco de Dados
 $ docker-compose up
+
+# Rode a Aplicação
+$ yarn dev
 
 ```
 
