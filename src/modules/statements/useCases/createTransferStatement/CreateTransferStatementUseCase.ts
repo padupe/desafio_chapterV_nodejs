@@ -5,8 +5,6 @@ import { IStatementsRepository } from "../../repositories/IStatementsRepository"
 import { CreateTransferStatementError } from "./CreateTransferStatementError";
 import { ICreateTransferStatementDTO } from "./ICreateTransferStatementDTO";
 
-
-
 @injectable()
 export class CreateTransferStatementUseCase {
     constructor(
